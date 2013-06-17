@@ -1,4 +1,4 @@
-## hubot-sadness
+## hubot-sadness [![NPM version](https://badge.fury.io/js/hubot-sadness.png)](http://badge.fury.io/js/hubot-sadness)
 
 A [hubot](https://github.com/github/hubot) counter to keep track of how long
 it's been since someone said something depressing.
