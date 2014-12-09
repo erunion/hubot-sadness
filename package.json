@@ -1,6 +1,6 @@
 {
   "name": "hubot-sadness",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "Jon Ursenbach <jon@ursenba.ch>",
   "description": "A Hubot counter to keep track of how long it's been since someone said something depressing.",
   "keywords": [
