@@ -9,8 +9,7 @@ it's been since someone said something depressing.
     hubot sadness reset # Reset the clock; someone posted something depressing.
 
 ### Installation
-1. Edit `package.json` and add `hubot-sadness` as a dependency.
+1. `npm install hubot-sadness --save`
 2. Add `"hubot-sadness"` to your `external-scripts.json` file.
-3. `npm install`
-4. Reboot Hubot.
-5. Try to not post anything depressing.
+3. Reboot Hubot.
+4. Try to not post anything depressing.
